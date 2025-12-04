@@ -1,0 +1,31 @@
+{
+  "name": "Echo Dark",
+  
+  "black": "#000000",
+  "brightBlack": "#444444",
+
+  "white": "#bbbbbb",
+  "brightWhite": "#ffffff",
+
+  "red": "#ee5555",
+  "brightRed": "#ee5555",
+  "yellow": "#eecc00",
+  "brightYellow": "#eecc00",
+
+  "green": "#99bb44",
+  "brightGreen": "#99bb44",
+
+  "cyan": "#66ccbb",
+  "brightCyan": "#66ccbb",
+
+  "blue": "#4499dd",
+  "brightBlue": "#4499dd",
+
+  "purple": "#cc77bb",
+  "brightPurple": "#cc77bb",
+
+  "background": "#000000",
+  "foreground": "#bbbbbb",
+  "cursorColor": "#bbbbbb",
+  "selectionBackground": "#444444"
+}
