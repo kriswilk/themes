@@ -4,13 +4,13 @@ author: "Kris Wilk (https://github.com/kriswilk)"
 variant: "dark"
 palette:
   base00: "#000000" # black
-  base01: "#222222" # gray ---
-  base02: "#444444" # gray --
-  base03: "#666666" # gray -
-  base04: "#999999" # gray +
-  base05: "#bbbbbb" # gray ++
-  base06: "#dddddd" # gray +++
-  base07: "#ffffff" # white
+  base01: "#222222" # bright-black
+  base02: "#444444" # darker-gray
+  base03: "#666666" # dark-gray
+  base04: "#999999" # light-gray
+  base05: "#bbbbbb" # lighter-gray
+  base06: "#dddddd" # white
+  base07: "#ffffff" # bright-white
   base08: "#ee5555" # red
   base09: "#ff8833" # orange
   base0A: "#eecc00" # yellow
