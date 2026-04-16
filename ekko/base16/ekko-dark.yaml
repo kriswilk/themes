@@ -10,15 +10,15 @@ palette:
   base03: "#666666" # gray
   base04: "#999999" # brightgray
 
-  base05: "#bbbbbb" # darkwhite
-  base06: "#dddddd" # white
-  base07: "#ffffff" # brightwhite
+  base05: "#BBBBBB" # darkwhite
+  base06: "#DDDDDD" # white
+  base07: "#FFFFFF" # brightwhite
 
-  base08: "#ee5555" # red
-  base09: "#ff8833" # orange
-  base0A: "#eecc00" # yellow
-  base0B: "#99bb44" # green
-  base0C: "#66ccbb" # cyan
-  base0D: "#4499dd" # blue
-  base0E: "#cc77bb" # purple
-  base0F: "#bb6622" # brown
+  base08: "#EE5555" # red
+  base09: "#FF8833" # orange
+  base0A: "#EECC00" # yellow
+  base0B: "#99BB44" # green
+  base0C: "#66CCBB" # cyan
+  base0D: "#4499DD" # blue
+  base0E: "#CC77BB" # purple
+  base0F: "#BB6622" # brown

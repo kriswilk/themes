@@ -4,29 +4,29 @@
   "black": "#000000",
   "brightBlack": "#444444",
 
-  "white": "#bbbbbb",
-  "brightWhite": "#ffffff",
+  "white": "#BBBBBB",
+  "brightWhite": "#FFFFFF",
 
-  "red": "#ee5555",
-  "brightRed": "#ee5555",
+  "red": "#EE5555",
+  "brightRed": "#EE5555",
 
-  "yellow": "#eecc00",
-  "brightYellow": "#eecc00",
+  "yellow": "#EECC00",
+  "brightYellow": "#EECC00",
 
-  "green": "#99bb44",
-  "brightGreen": "#99bb44",
+  "green": "#99BB44",
+  "brightGreen": "#99BB44",
 
-  "cyan": "#66ccbb",
-  "brightCyan": "#66ccbb",
+  "cyan": "#66CCBB",
+  "brightCyan": "#66CCBB",
 
-  "blue": "#4499dd",
-  "brightBlue": "#4499dd",
+  "blue": "#4499DD",
+  "brightBlue": "#4499DD",
 
-  "purple": "#cc77bb",
-  "brightPurple": "#cc77bb",
+  "purple": "#CC77BB",
+  "brightPurple": "#CC77BB",
 
-  "foreground": "#bbbbbb",
-  "cursorColor": "#bbbbbb",
+  "foreground": "#BBBBBB",
+  "cursorColor": "#BBBBBB",
   "background": "#000000",
   "selectionBackground": "#444444"
 }
