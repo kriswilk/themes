@@ -1,0 +1,32 @@
+{
+  "name": "Kanagawa Wave",
+
+  "black": "#1F1F28",
+  "brightBlack": "#2A2A37",
+
+  "white": "#DCD7BA",
+  "brightWhite": "#FFFEF9",
+
+  "red": "#FF5D62",
+  "brightRed": "#FF5D62",
+
+  "yellow": "#DCA561",
+  "brightYellow": "#DCA561",
+
+  "green": "#98BB6C",
+  "brightGreen": "#98BB6C",
+
+  "cyan": "#7AA89F",
+  "brightCyan": "#7AA89F",
+
+  "blue": "#7E9CD8",
+  "brightBlue": "#7E9CD8",
+
+  "purple": "#957FB8",
+  "brightPurple": "#957FB8",
+
+  "foreground": "#DCD7BA",
+  "cursorColor": "#DCD7BA",
+  "background": "#1F1F28",
+  "selectionBackground": "#54546D"
+}
