@@ -3,16 +3,17 @@ name: "Ekko Dark"
 author: "Kris Wilk (https://github.com/kriswilk)"
 variant: "dark"
 palette:
-  base00: "#000000" # black
-  base01: "#222222" # brightblack
+  base00: "#000000" # bg
+  base01: "#222222" # bg_l
 
-  base02: "#444444" # darkgray
-  base03: "#666666" # gray
-  base04: "#999999" # brightgray
+  base02: "#444444" # select
+  base03: "#666666" # comment
 
-  base05: "#BBBBBB" # darkwhite
-  base06: "#DDDDDD" # white
-  base07: "#FFFFFF" # brightwhite
+  base04: "#999999" # fg_d
+  base05: "#BBBBBB" # fg
+  base06: "#DDDDDD" # fg_l
+
+  base07: "#FFFFFF" # bright
 
   base08: "#EE5555" # red
   base09: "#FF8833" # orange
