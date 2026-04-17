@@ -2,7 +2,7 @@
   "name": "Kanagawa Wave Neutral",
 
   "black": "#1F1F28",
-  "brightBlack": "#2A2A37",
+  "brightBlack": "#54546D",
 
   "white": "#CFCEC7",
   "brightWhite": "#FFFEF9",
@@ -28,5 +28,5 @@
   "foreground": "#CFCEC7",
   "cursorColor": "#CFCEC7",
   "background": "#1F1F28",
-  "selectionBackground": "#54546D"
+  "selectionBackground": "#223249"
 }
