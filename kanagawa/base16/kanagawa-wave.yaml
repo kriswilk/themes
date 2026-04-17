@@ -8,10 +8,10 @@ palette:
 
   base02: "#363646" # darkgray     sumiInk5
   base03: "#54546D" # gray         sumiInk6
-  base04: "#717C7C" # brightgray   katanaGray
+  base04: "#727169" # brightgray   fujiGray
 
-  base05: "#C8C093" # darkwhite    oldWhite
-  base06: "#DCD7BA" # white        fujiWhite
+  base05: "#DCD7BA" # darkwhite    fujiWhite
+  base06: "#EEEADA" # white        [custom]
   base07: "#FFFEF9" # brightwhite  [custom]
 
   base08: "#FF5D62" # red          peachRed
