@@ -6,6 +6,6 @@ Adapted by [Kris Wilk](https://github.com/kriswilk)
 
 ## Notes
 
-- All variants add bright white (#FFFEF9).
-- "neutral" variants shift whites toward neutral gray.
-- "oled" variants have true black background.
+- All variants add brighter whites.
+- "Neutral" variants shift whites toward neutral gray.
+- "OLED" variants have true black background.
