@@ -1,0 +1,25 @@
+system: "base16"
+name: "Kanagawa Wave OLED"
+author: "Tommaso Laurenzi (https://github.com/rebelot/kanagawa.nvim), adapted by Kris Wilk (https://github.com/kriswilk)"
+variant: "dark"
+palette:
+  base00: "#000000" # bg       [custom]
+  base01: "#2A2A37" # bg_l     sumiInk4
+
+  base02: "#363646" # select   sumiInk5
+  base03: "#54546D" # comment  sumiInk6
+  
+  base04: "#C8C093" # fg_d     oldWhite
+  base05: "#DCD7BA" # fg       fujiWhite
+  base06: "#EEEADA" # fg_l     [custom]
+  
+  base07: "#FFFEF9" # bright   [custom]
+
+  base08: "#FF5D62" # red      peachRed
+  base09: "#FFA066" # orange   surimiOrange
+  base0A: "#DCA561" # yellow   autumnYellow
+  base0B: "#98BB6C" # green    springGreen
+  base0C: "#7AA89F" # cyan     waveAqua2
+  base0D: "#7E9CD8" # blue     crystalBlue
+  base0E: "#957FB8" # magenta  oniViolet
+  base0F: "#938056" # brown    boatYellow1

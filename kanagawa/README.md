@@ -6,5 +6,6 @@ Adapted by [Kris Wilk](https://github.com/kriswilk)
 
 ## Notes
 
-- kanagawa-wave-*: adds "brightwhite" (#FFFEF9).
-- kanagawa-wave-neutral: has more neutral whites.
+- All variants add bright white (#FFFEF9).
+- "neutral" variants shift whites toward neutral gray.
+- "oled" variants have true black background.
