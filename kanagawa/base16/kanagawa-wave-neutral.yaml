@@ -9,8 +9,8 @@ palette:
   base02: "#363646" # select   sumiInk5
   base03: "#54546D" # comment  sumiInk6
   
-  base04: "#A19F91" # fg_d     [#999999 shifted toward oldWhite]
-  base05: "#C1BFB5" # fg       [#BBBBBB shifted toward fujiWhite]
+  base04: "#A19F91" # fg_d     [oldWhite shifted toward neutral]
+  base05: "#C1BFB5" # fg       [fujiWhite shifted toward neutral]
   base06: "#E0DED7" # fg_l     [custom]
   
   base07: "#FFFEF9" # bright   [custom]
