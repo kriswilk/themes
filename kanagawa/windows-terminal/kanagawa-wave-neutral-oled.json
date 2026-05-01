@@ -4,7 +4,7 @@
   "black": "#000000",
   "brightBlack": "#54546D",
 
-  "white": "#CFCEC7",
+  "white": "#C1BFB5",
   "brightWhite": "#FFFEF9",
 
   "red": "#FF5D62",
@@ -25,8 +25,8 @@
   "purple": "#957FB8",
   "brightPurple": "#957FB8",
 
-  "foreground": "#CFCEC7",
-  "cursorColor": "#CFCEC7",
+  "foreground": "#C1BFB5",
+  "cursorColor": "#C1BFB5",
   "background": "#000000",
   "selectionBackground": "#363646"
 }
