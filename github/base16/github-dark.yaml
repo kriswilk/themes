@@ -1,0 +1,25 @@
+system: "base16"
+name: "GitHub Dark"
+author: "Kris Wilk (https://github.com/kriswilk)"
+variant: "dark"
+palette:
+  base00: "#0D1117" # bg
+  base01: "#161B22" # bg_l
+
+  base02: "#484F58" # select
+  base03: "#6E7681" # comment
+
+  base04: "#9198A1" # fg_d
+  base05: "#C9D1D9" # fg
+  base06: "#F0F6FC" # fg_l
+
+  base07: "#FFFFFF" # bright
+
+  base08: "#FF7B72" # red
+  base09: "#FFA657" # orange
+  base0A: "#FFD743" # yellow (arbitrarily chosen)
+  base0B: "#7EE787" # green
+  base0C: "#A5D6FF" # cyan
+  base0D: "#79C0FF" # blue
+  base0E: "#D2A8FF" # magenta
+  base0F: "#BB8009" # brown (arbitrarily chosen)
